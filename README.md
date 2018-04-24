@@ -1,3 +1,3 @@
 # sync-test
 in class
-##Vert, David; Addison;
+##Vert; Addison;
